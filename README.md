@@ -27,7 +27,7 @@
 
 ## 🚀 Installation
 
-### **Linux / macOS / WSL**
+### **Linux **
 
 Clone the repo and install the dependencies:
 ```bash
