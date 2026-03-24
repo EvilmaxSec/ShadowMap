@@ -27,7 +27,7 @@
 
 ## 🚀 Installation
 
-### **Linux **
+### Linux
 
 Clone the repo and install the dependencies:
 ```bash
