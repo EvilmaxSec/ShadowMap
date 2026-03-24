@@ -4,7 +4,7 @@
 ![OS](https://img.shields.io/badge/OS-Linux%20%7C%20Windows%20%7C%20Android-lightgrey?style=flat-square&logo=linux)
 ![License](https://img.shields.io/badge/LICENSE-MIT-green?style=flat-square&logo=opensourceinitiative)
 ![Termux](https://img.shields.io/badge/TERMUX-READY-purple?style=flat-square&logo=android)
-
+<img src="picture/shadow-map.png" alt="Cyber-Ninja">
 **Created by [EvilmaxSec](https://github.com/EvilmaxSec)** • ⚡ purple Team Ready
 📍 A professional IP geolocation tool that tracks IP addresses with multi-source accuracy and Google Maps integration.
 
